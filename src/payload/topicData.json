@@ -1,0 +1,2312 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Arrays",
+      "chapters": [
+        {
+          "chapterName": "Introduction to Arrays",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Find Missing Number",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=5nMGY4VUoRY", 
+              "leetcodeLink": "https://leetcode.com/problems/missing-number/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-missing-number/"
+            },
+            {
+              "id": 2,
+              "name": "Remove Duplicates from Sorted Array",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=DEJAZBq0FDA", 
+              "leetcodeLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+              "articleLink": "https://www.geeksforgeeks.org/remove-duplicates-sorted-array/"
+            },
+            {
+              "id": 3,
+              "name": "Check if the Array is Sorted",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=_BIAu8snySk", 
+              "leetcodeLink": "https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted",
+              "articleLink": "https://www.geeksforgeeks.org/program-to-check-if-an-array-is-sorted-or-not/"
+            },
+            {
+              "id": 4,
+              "name": "Left Rotate an Array by One Place",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=RO5OVrHhVF4", 
+              "leetcodeLink": "https://www.geeksforgeeks.org/array-rotation/",
+              "articleLink": "https://www.geeksforgeeks.org/left-rotation-right-rotation-array/"
+            },
+            {
+              "id": 5,
+              "name": "Left Rotate an Array by D Places",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=JREr27dbAKE", 
+              "leetcodeLink": "https://leetcode.com/problems/rotate-array/",
+              "articleLink": "https://www.geeksforgeeks.org/array-rotation/"
+            },
+            {
+              "id": 6,
+              "name": "Move Zeros to End",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=7k1E44vc7rs", 
+              "leetcodeLink": "https://leetcode.com/problems/move-zeroes/",
+              "articleLink": "https://www.geeksforgeeks.org/move-zeroes-end-array/"
+            },
+            {
+              "id": 7,
+              "name": "Linear Search",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=f5GWA4M4zJ4", 
+              "leetcodeLink": "https://practice.geeksforgeeks.org/problems/searching-a-number0324/1",
+              "articleLink": "https://www.geeksforgeeks.org/linear-search/"
+            },
+            {
+              "id": 8,
+              "name": "Maximum Consecutive Ones",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=wwx3_fULDRk", 
+              "leetcodeLink": "https://leetcode.com/problems/max-consecutive-ones/",
+              "articleLink": "https://www.geeksforgeeks.org/maximum-consecutive-ones-or-zeros-in-a-binary-array/"
+            },
+            {
+              "id": 9,
+              "name": "Find the Number that Appears Once",
+              "difficulty": "Easy",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=KTtwqUSkrcg", 
+              "leetcodeLink": "https://leetcode.com/problems/single-number/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/"
+            },
+            {
+              "id": 10,
+              "name": "Find the Union",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=k1vO54T3QAA", 
+              "leetcodeLink": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1",
+              "articleLink": "https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/"
+            },
+            {
+              "id": 11,
+              "name": "Longest Subarray with Given Sum K",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=2eqDDqCoGkA", 
+              "leetcodeLink": "https://leetcode.com/problems/subarray-sum-equals-k/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-subarray-with-sum-k/"
+            },
+            {
+              "id": 12,
+              "name": "2Sum Problem",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=boOOrIVYWhE", 
+              "leetcodeLink": "https://leetcode.com/problems/two-sum/",
+              "articleLink": "https://www.geeksforgeeks.org/two-pointers-technique/"
+            },
+            {
+              "id": 13,
+              "name": "Maximum Subarray Sum",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=OHHeZyJEVNE", 
+              "leetcodeLink": "https://leetcode.com/problems/maximum-subarray/",
+              "articleLink": "https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/"
+            },
+            {
+              "id": 14,
+              "name": "Sort an Array of 0's 1's and 2's",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=tp8jiDvrG2s", 
+              "leetcodeLink": "https://leetcode.com/problems/sort-colors/",
+              "articleLink": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
+            },
+            {
+              "id": 15,
+              "name": "Rearrange Array in Alternating Positive and Negative",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=MNkjWWaJtP0", 
+              "leetcodeLink": "https://practice.geeksforgeeks.org/problems/array-of-alternate-positive-and-negative-nos/0",
+              "articleLink": "https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/"
+            },
+            {
+              "id": 16,
+              "name": "Set Matrix Zeros",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=-WOJhAPr94g", 
+              "leetcodeLink": "https://leetcode.com/problems/set-matrix-zeroes/",
+              "articleLink": "https://www.geeksforgeeks.org/a-boolean-matrix-question/"
+            },
+            {
+              "id": 17,
+              "name": "Print the Matrix in Spiral Order",
+              "difficulty": "Medium",
+              "completed": false,
+              "youtubeLink": "https://www.youtube.com/watch?v=1ZGJzvkcLsA", 
+              "leetcodeLink": "https://leetcode.com/problems/spiral-matrix/",
+              "articleLink": "https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/"
+            },
+            {
+              "id": 18,
+              "name": "Trapping Rain Water",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=1P8wwCVQ3ao", 
+              "leetcodeLink": "https://leetcode.com/problems/trapping-rain-water/",
+              "articleLink": "https://www.geeksforgeeks.org/trapping-rain-water/"
+            },
+            {
+              "id": 19,
+              "name": "Product of Array Except Self",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=J8OO0UGen6A", 
+              "leetcodeLink": "https://leetcode.com/problems/product-of-array-except-self/",
+              "articleLink": "https://www.geeksforgeeks.org/product-of-array-except-self/"
+            },
+            {
+              "id": 20,
+              "name": "Find Minimum in Rotated Sorted Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=s6WcD2QXt4k", 
+              "leetcodeLink": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+              "articleLink": "https://www.geeksforgeeks.org/find-minimum-in-rotated-sorted-array/"
+            },
+
+            {
+              "id": 21,
+              "name": "3Sum",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=RZr84aFcy7o", 
+              "leetcodeLink": "https://leetcode.com/problems/3sum/",
+              "articleLink": "https://www.geeksforgeeks.org/3-sum/"
+            },
+            {
+              "id": 22,
+              "name": "Container With Most Water",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=32AaEgr7j34", 
+              "leetcodeLink": "https://leetcode.com/problems/container-with-most-water/",
+              "articleLink": "https://www.geeksforgeeks.org/container-with-most-water/"
+            },
+
+            {
+              "id": 23,
+              "name": "Merge Overlapping Intervals",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=IJx85Pq8Gy4", 
+              "leetcodeLink": "https://leetcode.com/problems/merge-intervals/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-overlapping-intervals/"
+            },
+            {
+              "id": 24,
+              "name": "Find Minimum Number of Merge Operations to Make an Array Palindrome",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Strings",
+      "chapters": [
+        {
+          "chapterName": "Strings Ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Valid Palindrome",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=k0ZnJW_Mj14", 
+              "leetcodeLink": "https://leetcode.com/problems/valid-palindrome/",
+              "articleLink": "https://www.geeksforgeeks.org/valid-palindrome/"
+            },
+            {
+              "id": 2,
+              "name": "Valid Anagram",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=0KdkG9hWkzk", 
+              "leetcodeLink": "https://leetcode.com/problems/valid-anagram/",
+              "articleLink": "https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/"
+            },
+            {
+              "id": 3,
+              "name": "Valid Parentheses",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=oj2kNTEuTW8", 
+              "leetcodeLink": "https://leetcode.com/problems/valid-parentheses/",
+              "articleLink": "https://www.geeksforgeeks.org/valid-parentheses/"
+            },
+            {
+              "id": 4,
+              "name": "Remove Consecutive Characters",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=3c_vJ9hJ1tk", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/remove-consecutive-characters/"
+            },
+            {
+              "id": 5,
+              "name": "Longest Common Prefix",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=ZbA14-X5i2M", 
+              "leetcodeLink": "https://leetcode.com/problems/longest-common-prefix/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-common-prefix/"
+            },
+            {
+              "id": 6,
+              "name": "Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=ACoV5l85XxA", 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/"
+            },
+            {
+              "id": 7,
+              "name": "Print all the Duplicates in the Input String",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=14L3gxyOUc4", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+            },
+            {
+              "id": 8,
+              "name": "Longest Substring without Repeating Characters",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=I8o2bK5aGJk", 
+              "leetcodeLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-substring-without-repeating-characters/"
+            },
+            {
+              "id": 9,
+              "name": "Longest Repeating Character Replacement",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=_BQjMddkgYk", 
+              "leetcodeLink": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-repeating-character-replacement/"
+            },
+            {
+              "id": 10,
+              "name": "Group Anagrams",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=t0w2Zo0iL8c", 
+              "leetcodeLink": "https://leetcode.com/problems/group-anagrams/",
+              "articleLink": "https://www.geeksforgeeks.org/group-anagrams/"
+            },
+            {
+              "id": 11,
+              "name": "Longest Palindromic Substring",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=6Nw6kSc2TMs", 
+              "leetcodeLink": "https://leetcode.com/problems/longest-palindromic-substring/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-palindromic-substring/"
+            },
+            {
+              "id": 12,
+              "name": "Palindromic Substrings",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=R4A5iEGH9W4", 
+              "leetcodeLink": "https://leetcode.com/problems/palindromic-substrings/",
+              "articleLink": "https://www.geeksforgeeks.org/palindromic-substrings/"
+            },
+            {
+              "id": 13,
+              "name": "Next Permutation",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=sbUsw4niJ4s", 
+              "leetcodeLink": "https://leetcode.com/problems/next-permutation/",
+              "articleLink": "https://www.geeksforgeeks.org/next-permutation/"
+            },
+            {
+              "id": 14,
+              "name": "Count Palindromic Subsequences",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=zOdJdv1w5N4", 
+              "leetcodeLink": "https://leetcode.com/problems/count-palindromic-subsequences/",
+              "articleLink": "https://www.geeksforgeeks.org/count-palindromic-subsequences/"
+            },
+            {
+              "id": 15,
+              "name": "Smallest Window in a String Containing all the Characters of Another String",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=7cd3vG60PqU", 
+              "leetcodeLink": "https://leetcode.com/problems/minimum-window-substring/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/"
+            },
+            {
+              "id": 16,
+              "name": "Wildcard String Matching",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=TSwcfFvqX64", 
+              "leetcodeLink": "https://leetcode.com/problems/wildcard-matching/",
+              "articleLink": "https://www.geeksforgeeks.org/wildcard-string-matching/"
+            },
+            {
+              "id": 17,
+              "name": "Longest Prefix Suffix",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=X8sd9DoVJzM", 
+              "leetcodeLink": "https://leetcode.com/problems/longest-prefix-suffix/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-prefix-suffix/"
+            },
+            {
+              "id": 18,
+              "name": "Rabin-Karp Algorithm for Pattern Searching",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=XoVo9gf1N5E", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/"
+            },
+            {
+              "id": 19,
+              "name": "Transform One String to Another using Minimum Number of Given Operations",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/"
+            },
+            {
+              "id": 20,
+              "name": "Minimum Window Substring",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=xmpZzWMOCE0", 
+              "leetcodeLink": "https://leetcode.com/problems/minimum-window-substring/",
+              "articleLink": "https://www.geeksforgeeks.org/minimum-window-substring/"
+            },
+            {
+              "id": 21,
+              "name": "Boyer-Moore Algorithm for Pattern Searching",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=e_ktCjq_GY4", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/"
+            },
+            {
+              "id": 22,
+              "name": "Word Wrap",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": null
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Searching & Sorting",
+      "chapters": [
+        {
+          "chapterName": "Search & sort",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Permute Two Arrays such that Sum of Every Pair is Greater or Equal to K",
+              "difficulty": "Medium",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/permute-two-arrays-such-that-sum-of-every-pair-is-greater-or-equal-to-k/"
+            },
+            {
+              "id": 2,
+              "name": "Counting Sort",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=ukQHQkY_Td8", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/counting-sort/"
+            },
+            {
+              "id": 3,
+              "name": "Find Common Elements in Three Sorted Arrays",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Sy_oQOGdaOE", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/find-common-elements-in-three-sorted-arrays/"
+            },
+            {
+              "id": 4,
+              "name": "Searching in an Array where Adjacent Differ by at Most K",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=5jPvDWzpPlk", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/searching-in-an-array-where-adjacent-differ-by-at-most-k/"
+            },
+            {
+              "id": 5,
+              "name": "Ceiling in a Sorted Array",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=5dE6ACAnB2s", 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/"
+            },
+            {
+              "id": 6,
+              "name": "Pair with Given Difference",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=H8ll16TQwRk", 
+              "leetcodeLink": "https://leetcode.com/problems/find-all-the-numbers-disappeared-in-an-array/",
+              "articleLink": "https://www.geeksforgeeks.org/find-pair-with-given-difference/"
+            },
+            {
+              "id": 7,
+              "name": "Majority Element",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=rRBwzHGikGQ", 
+              "leetcodeLink": "https://leetcode.com/problems/majority-element/",
+              "articleLink": "https://www.geeksforgeeks.org/majority-element/"
+            },
+            {
+              "id": 8,
+              "name": "Count Triplets with Sum Smaller than a Given Value",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=khPGn9jq4B0", 
+              "leetcodeLink": "https://leetcode.com/problems/3sum-smaller/",
+              "articleLink": "https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-than-a-given-value/"
+            },
+            {
+              "id": 9,
+              "name": "Maximum Sum Subsequence with No Adjacent Elements",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=R2pK6nAv9w0", 
+              "leetcodeLink": "https://leetcode.com/problems/maximum-sum-of-non-adjacent-elements/",
+              "articleLink": "https://www.geeksforgeeks.org/maximum-sum-subsequence-with-no-adjacent-elements/"
+            },
+            {
+              "id": 10,
+              "name": "Merge Sorted Arrays using O(1) Space",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=3I39ROsH6qk", 
+              "leetcodeLink": "https://leetcode.com/problems/merge-sorted-array/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-two-sorted-arrays-without-extra-space/"
+            },
+            {
+              "id": 11,
+              "name": "Inversion of Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=kwM8L6a6zQk", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/counting-inversions/"
+            },
+            {
+              "id": 12,
+              "name": "Find Duplicates in O(n) Time and O(1) Extra Space",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=1F4L6e5WZ10", 
+              "leetcodeLink": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+              "articleLink": "https://www.geeksforgeeks.org/find-duplicates-in-an-array/"
+            },
+            {
+              "id": 13,
+              "name": "Radix Sort",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=WDo0fXtNdr4", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/radix-sort/"
+            },
+            {
+              "id": 14,
+              "name": "Product of Array Except Itself",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=TR8YI8oZVv4", 
+              "leetcodeLink": "https://leetcode.com/problems/product-of-array-except-self/",
+              "articleLink": "https://www.geeksforgeeks.org/product-of-array-except-self/"
+            },
+            {
+              "id": 15,
+              "name": "Make All Array Elements Equal",
+              "difficulty": "Medium",
+              "youtubeLink": null,
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/make-all-array-elements-equal/"
+            },
+            {
+              "id": 16,
+              "name": "Check if Reversing a Subarray Makes the Array Sorted",
+              "difficulty": "Medium",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/check-if-reversing-a-subarray-makes-the-array-sorted/"
+            },
+            {
+              "id": 17,
+              "name": "Find Four Elements that Sum to a Given Value",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=2AtYk1l0sdw", 
+              "leetcodeLink": "https://leetcode.com/problems/4sum/",
+              "articleLink": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value/"
+            },
+            {
+              "id": 18,
+              "name": "Median of Two Sorted Arrays with Different Sizes",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=wR9X7dY_5R0", 
+              "leetcodeLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+              "articleLink": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays/"
+            },
+            {
+              "id": 19,
+              "name": "Median of Stream of Integers Running Integers",
+              "difficulty": "Hard",
+              "youtubeLink": null,
+              "leetcodeLink": "https://leetcode.com/problems/find-median-from-data-stream/",
+              "articleLink": "https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/"
+            },
+            {
+              "id": 20,
+              "name": "Print Subarrays with 0 Sum",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=QDo_X5B4aOw", 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/find-all-subarrays-with-0-sum/"
+            },
+            {
+              "id": 21,
+              "name": "Aggressive Cows",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/aggressive-cows/"
+            },
+            {
+              "id": 22,
+              "name": "Allocate Minimum Number of Pages",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/allocate-minimum-number-of-pages/"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Linked List",
+      "chapters": [
+        {
+          "chapterName": "linked list ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Reverse Linked List",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=2q7r7LqYyHg", 
+              "leetcodeLink": "https://leetcode.com/problems/reverse-linked-list/",
+              "articleLink": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+            },
+            {
+              "id": 2,
+              "name": "Linked List Cycle",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=k8W0hfC8vM0", 
+              "leetcodeLink": "https://leetcode.com/problems/linked-list-cycle/",
+              "articleLink": "https://www.geeksforgeeks.org/detecting-loop-in-a-linked-list/"
+            },
+            {
+              "id": 3,
+              "name": "Merge Two Sorted Lists",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=3WS0C-V5t4Q", 
+              "leetcodeLink": "https://leetcode.com/problems/merge-two-sorted-lists/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/"
+            },
+            {
+              "id": 4,
+              "name": "Delete Without Head Node",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=ARpI9dP4OeU", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/delete-without-head-node/"
+            },
+            {
+              "id": 5,
+              "name": "Remove Duplicates from an Unsorted Linked List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=3dSk02pHk4E", 
+              "leetcodeLink": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+              "articleLink": "https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/"
+            },
+            {
+              "id": 6,
+              "name": "Sort a Linked List of 0s, 1s, or 2s",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=V2Y1FQql2QU", 
+              "leetcodeLink": "https://leetcode.com/problems/sort-list/",
+              "articleLink": "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/"
+            },
+            {
+              "id": 7,
+              "name": "Multiply Two Numbers Represented as Linked Lists",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=k9g13-S5p_c", 
+              "leetcodeLink": "https://leetcode.com/problems/multiply-strings/",
+              "articleLink": "https://www.geeksforgeeks.org/multiply-two-numbers-represented-as-linked-lists/"
+            },
+            {
+              "id": 8,
+              "name": "Remove N-th Node from End of List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=n5T8_0iXw-g", 
+              "leetcodeLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+              "articleLink": "https://www.geeksforgeeks.org/remove-n-th-node-from-end-of-the-linked-list/"
+            },
+            {
+              "id": 9,
+              "name": "Reorder List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=W9Y2jOo6BrA", 
+              "leetcodeLink": "https://leetcode.com/problems/reorder-list/",
+              "articleLink": "https://www.geeksforgeeks.org/reorder-list/"
+            },
+            {
+              "id": 10,
+              "name": "Detect and Remove Loop in a Linked List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=CrQg8Q06LOE", 
+              "leetcodeLink": "https://leetcode.com/problems/linked-list-cycle-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/"
+            },
+            {
+              "id": 11,
+              "name": "Write a Function to Get the Intersection Point of Two Linked Lists",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=KCh8oIxWBL0", 
+              "leetcodeLink": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+              "articleLink": "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/"
+            },
+            {
+              "id": 12,
+              "name": "Flatten a Linked List with Next and Child Pointers",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=ly5eD4W57u8", 
+              "leetcodeLink": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+              "articleLink": "https://www.geeksforgeeks.org/flattening-a-linked-list/"
+            },
+            {
+              "id": 13,
+              "name": "Linked List in Zig-Zag Fashion",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=_CDK4HqT7l8", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/"
+            },
+            {
+              "id": 14,
+              "name": "Reverse a Doubly Linked List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8Y6QYleQKcM", 
+              "leetcodeLink": "https://leetcode.com/problems/reverse-doubly-linked-list/",
+              "articleLink": "https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/"
+            },
+            {
+              "id": 15,
+              "name": "Delete Nodes which have a Greater Value on Right Side",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=JY6mH-m3-d4", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/"
+            },
+            {
+              "id": 16,
+              "name": "Segregate Even and Odd Elements in a Linked List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=9hJ11Yb24mU", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/"
+            },
+            {
+              "id": 17,
+              "name": "Point to Next Higher Value Node in a Linked List with an Arbitrary Pointer",
+              "difficulty": "Hard",
+              "youtubeLink": null,
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/point-to-next-higher-value-node-in-a-linked-list-with-an-arbitrary-pointer/"
+            },
+            {
+              "id": 18,
+              "name": "Rearrange a Given Linked List in Place",
+              "difficulty": "Medium",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/"
+            },
+            {
+              "id": 19,
+              "name": "Sort Biotonic Doubly Linked Lists",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/sort-biotic-doubly-linked-lists/"
+            },
+            {
+              "id": 20,
+              "name": "Merge K Sorted Lists",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=9Kf0onO6q8I", 
+              "leetcodeLink": "https://leetcode.com/problems/merge-k-sorted-lists/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
+            },
+            {
+              "id": 21,
+              "name": "Merge Sort for Linked List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=r4yL4EF4-Lc", 
+              "leetcodeLink": "https://leetcode.com/problems/sort-list/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Backtracking",
+      "chapters": [
+        {
+          "chapterName": "backtracking ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Rat in a Maze",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=YClHL7x2bHk", 
+              "leetcodeLink": "https://leetcode.com/problems/rat-in-a-maze/",
+              "articleLink": "https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/"
+            },
+            {
+              "id": 2,
+              "name": "Combinational Sum",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=H8UMdH-7Xv8", 
+              "leetcodeLink": "https://leetcode.com/problems/combination-sum/",
+              "articleLink": "https://www.geeksforgeeks.org/combinational-sum/"
+            },
+            {
+              "id": 3,
+              "name": "Crossword Puzzle",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/crossword-puzzle-backtracking/"
+            },
+            {
+              "id": 4,
+              "name": "Longest Possible Route in a Matrix with Hurdles",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+            },
+            {
+              "id": 5,
+              "name": "Printing All Solutions in N-Queen Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=9OX9DT27wzQ", 
+              "leetcodeLink": "https://leetcode.com/problems/n-queens/",
+              "articleLink": "https://www.geeksforgeeks.org/n-queens-problem-backtracking/"
+            },
+            {
+              "id": 6,
+              "name": "Solve the Sudoku",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=OqzDvhp5iMo", 
+              "leetcodeLink": "https://leetcode.com/problems/sudoku-solver/",
+              "articleLink": "https://www.geeksforgeeks.org/sudoku-backtracking-7/"
+            },
+            {
+              "id": 7,
+              "name": "Partition Equal Subset Sum",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Bo8Un3Iz7Ro", 
+              "leetcodeLink": "https://leetcode.com/problems/partition-equal-subset-sum/",
+              "articleLink": "https://www.geeksforgeeks.org/partition-equal-subset-sum/"
+            },
+            {
+              "id": 8,
+              "name": "M Coloring Problem",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=w7a6aZkWJ24", 
+              "leetcodeLink": "https://leetcode.com/problems/m-coloring-problem/",
+              "articleLink": "https://www.geeksforgeeks.org/m-coloring-problem/"
+            },
+            {
+              "id": 9,
+              "name": "Knight's Tour",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=JFnmHk7wTi4", 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/the-knights-tour-problem/"
+            },
+            {
+              "id": 10,
+              "name": "Sudoku",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=OqzDvhp5iMo", 
+              "leetcodeLink": "https://leetcode.com/problems/sudoku-solver/",
+              "articleLink": "https://www.geeksforgeeks.org/sudoku-backtracking-7/"
+            },
+            {
+              "id": 11,
+              "name": "Remove Invalid Parentheses",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=qM9vbdpsCEU", 
+              "leetcodeLink": "https://leetcode.com/problems/remove-invalid-parentheses/",
+              "articleLink": "https://www.geeksforgeeks.org/remove-invalid-parentheses/"
+            },
+            {
+              "id": 12,
+              "name": "Word Break Problem Using Backtracking",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=1zz8yoE2VYs", 
+              "leetcodeLink": "https://leetcode.com/problems/word-break/",
+              "articleLink": "https://www.geeksforgeeks.org/word-break-problem-using-backtracking/"
+            },
+            {
+              "id": 13,
+              "name": "Print All Palindromic Partitions of a String",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=GA3g_tH0b34", 
+              "leetcodeLink": "https://leetcode.com/problems/palindrome-partitioning/",
+              "articleLink": "https://www.geeksforgeeks.org/print-all-palindromic-partitions-of-a-string/"
+            },
+            {
+              "id": 14,
+              "name": "Find Shortest Safe Route in a Path with Landmines",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+            },
+            {
+              "id": 15,
+              "name": "Partition of Set into K Subsets with Equal Sum",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/partition-of-set-into-k-subsets-with-equal-sum/"
+            },
+            {
+              "id": 16,
+              "name": "Hamiltonian Cycle",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=kDxaB_2Yrno", 
+              "leetcodeLink": "https://leetcode.com/problems/hamiltonian-cycle/",
+              "articleLink": "https://www.geeksforgeeks.org/hamiltonian-cycle/"
+            },
+            {
+              "id": 17,
+              "name": "Tug-of-War",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/tug-of-war/"
+            },
+            {
+              "id": 18,
+              "name": "Maximum Possible Number by Doing at Most K Swaps",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=HPp3N4bsZtQ", 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/maximum-possible-number-by-doing-at-most-k-swaps/"
+            },
+            {
+              "id": 19,
+              "name": "Solving Cryptarithmetic Puzzles",
+              "difficulty": "Hard",
+              "youtubeLink": null, 
+              "leetcodeLink": null,
+              "articleLink": "https://www.geeksforgeeks.org/cryptarithmetic-puzzles/"
+            },
+            {
+              "id": 20,
+              "name": "Find Paths from Corner Cell to Middle Cell in Maze",
+              "difficulty": "Medium",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/"
+            },
+            {
+              "id": 21,
+              "name": "Arithmetic Expressions",
+              "difficulty": "Medium",
+              "youtubeLink": null, 
+              "leetcodeLink": null, 
+              "articleLink": "https://www.geeksforgeeks.org/arithmetic-expressions/"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "Stack and Queues",
+      "chapters": [
+        {
+          "chapterName": "Stack and queues ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Implement Two Stacks in an Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=dxJecPpd1RU",
+              "leetcodeLink": "https://leetcode.com/problems/implement-two-stacks-in-an-array/",
+              "articleLink": "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/"
+            },
+            {
+              "id": 2,
+              "name": "Evaluation of Postfix Expression",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=w8txqOxIuLA",
+              "leetcodeLink": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+              "articleLink": "https://www.geeksforgeeks.org/evaluation-of-expression-using-stack/"
+            },
+            {
+              "id": 3,
+              "name": "Implement Stack Using Queues",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=vP8p28Oowfs",
+              "leetcodeLink": "https://leetcode.com/problems/implement-stack-using-queues/",
+              "articleLink": "https://www.geeksforgeeks.org/implement-stack-using-queues/"
+            },
+            {
+              "id": 4,
+              "name": "Queue Reversal",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Q0NxF1XqK7g",
+              "leetcodeLink": "https://leetcode.com/problems/reverse-queue/",
+              "articleLink": "https://www.geeksforgeeks.org/reverse-a-queue/"
+            },
+            {
+              "id": 5,
+              "name": "Implement Stack Queue Using Deque",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=IVMylF9D5oU",
+              "leetcodeLink": "https://leetcode.com/problems/design-and-implement-queue-using-deque/",
+              "articleLink": "https://www.geeksforgeeks.org/implement-stack-using-deque/"
+            },
+            {
+              "id": 6,
+              "name": "Reverse First K Elements of Queue",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8r2VYFOosEc",
+              "leetcodeLink": "https://leetcode.com/problems/reverse-first-k-elements-of-queue/",
+              "articleLink": "https://www.geeksforgeeks.org/reverse-first-k-elements-of-queue/"
+            },
+            {
+              "id": 7,
+              "name": "Design Stack with Middle Operation",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=_4VZqrfRJlo",
+              "leetcodeLink": "https://leetcode.com/problems/design-a-stack-with-increment-operation/",
+              "articleLink": "https://www.geeksforgeeks.org/design-a-stack-with-middle-operation/"
+            },
+            {
+              "id": 8,
+              "name": "Infix to Postfix",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=1P2s1vZ_7HQ",
+              "leetcodeLink": "https://leetcode.com/problems/infix-to-postfix/",
+              "articleLink": "https://www.geeksforgeeks.org/infix-to-postfix-using-stack/"
+            },
+            {
+              "id": 9,
+              "name": "Design and Implement Special Stack",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=R-vVBRi7vLs",
+              "leetcodeLink": "https://leetcode.com/problems/design-a-stack-with-minimum-element/",
+              "articleLink": "https://www.geeksforgeeks.org/design-a-stack-with-minimum-element/"
+            },
+            {
+              "id": 10,
+              "name": "Longest Valid Parentheses String",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=6zxM8r1Y7bI",
+              "leetcodeLink": "https://leetcode.com/problems/longest-valid-parentheses/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-valid-parentheses/"
+            },
+            {
+              "id": 11,
+              "name": "Find if an Expression has Duplicate Parentheses",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=DhZz55WXWk8",
+              "leetcodeLink": "https://leetcode.com/problems/find-duplicate-parentheses/",
+              "articleLink": "https://www.geeksforgeeks.org/find-if-an-expression-has-duplicate-parentheses/"
+            },
+            {
+              "id": 12,
+              "name": "Stack Permutations Check if an Array is Stack Permutation of Another",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=hhqdc9Al4w8",
+              "leetcodeLink": "https://leetcode.com/problems/validate-stack-sequences/",
+              "articleLink": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
+            },
+            {
+              "id": 13,
+              "name": "Count Natural Numbers Whose Permutation is Greater",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=rg5nCTfZGm4",
+              "leetcodeLink": "https://leetcode.com/problems/count-permutations/",
+              "articleLink": "https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/"
+            },
+            {
+              "id": 14,
+              "name": "Sort a Stack Using Recursion",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=vpaZXv8sFG4",
+              "leetcodeLink": "https://leetcode.com/problems/sort-a-stack/",
+              "articleLink": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/"
+            },
+            {
+              "id": 15,
+              "name": "Queue Based Approach for First Non-Repeating Character in a Stream",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=qQ5h7m6VLCc",
+              "leetcodeLink": "https://leetcode.com/problems/first-non-repeating-character/",
+              "articleLink": "https://www.geeksforgeeks.org/first-non-repeating-character-in-a-stream/"
+            },
+            {
+              "id": 16,
+              "name": "The Celebrity Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=7kY2QlLQpJQ",
+              "leetcodeLink": "https://leetcode.com/problems/find-the-celebrity/",
+              "articleLink": "https://www.geeksforgeeks.org/the-celebrity-problem/"
+            },
+            {
+              "id": 17,
+              "name": "Next Larger Element",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=F3EF2sm5Wqk",
+              "leetcodeLink": "https://leetcode.com/problems/next-greater-element-i/",
+              "articleLink": "https://www.geeksforgeeks.org/next-greater-element/"
+            },
+            {
+              "id": 18,
+              "name": "Distance of Nearest Cell",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=weNnt8SO1k0",
+              "leetcodeLink": "https://leetcode.com/problems/the-distance-between-the-two-end-points-of-a-circular-array/",
+              "articleLink": "https://www.geeksforgeeks.org/distance-of-nearest-cell/"
+            },
+            {
+              "id": 19,
+              "name": "Rotten Oranges",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Y62EFpdpq_o",
+              "leetcodeLink": "https://leetcode.com/problems/rotting-oranges/",
+              "articleLink": "https://www.geeksforgeeks.org/rotten-oranges/"
+            },
+            {
+              "id": 20,
+              "name": "Next Smaller Element",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=b8v9oQu4I2s",
+              "leetcodeLink": "https://leetcode.com/problems/next-smaller-element-i/",
+              "articleLink": "https://www.geeksforgeeks.org/next-smaller-element/"
+            },
+            {
+              "id": 21,
+              "name": "Circular Tour",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=nwm8fOl9haM",
+              "leetcodeLink": "https://leetcode.com/problems/circular-tour/",
+              "articleLink": "https://www.geeksforgeeks.org/circular-tour/"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "name": "Greedy",
+      "chapters": [
+        {
+          "chapterName": "greedy ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Activity Selection Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=V3R4fG0Mjcs",
+              "leetcodeLink": "https://leetcode.com/problems/meeting-rooms-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-3/"
+            },
+            {
+              "id": 2,
+              "name": "Greedy Algorithm to Find Minimum Number of Coins",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=3F9FgYBzsU4",
+              "leetcodeLink": "https://leetcode.com/problems/coin-change/",
+              "articleLink": "https://www.geeksforgeeks.org/greedy-algorithm-find-minimum-number-coins/"
+            },
+            {
+              "id": 3,
+              "name": "Minimum Sum of Two Numbers Formed from Digits Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=6Wosm3J71m0",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-sum-of-two-numbers-formed-by-digits/",
+              "articleLink": "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array/"
+            },
+            {
+              "id": 4,
+              "name": "Minimum Sum Absolute Difference of Pairs in Two Arrays",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=O-1SwGHk1iA",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-absolute-difference/",
+              "articleLink": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/"
+            },
+            {
+              "id": 5,
+              "name": "Find Maximum Height Pyramid from the Given Array of Objects",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=rrdzDdo_8O4",
+              "leetcodeLink": "https://leetcode.com/problems/find-the-maximum-height-of-a-pyramid/",
+              "articleLink": "https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-given-array-objects/"
+            },
+            {
+              "id": 6,
+              "name": "Minimum Cost for Acquiring All Coins with K Extra Coins Allowed with Every Coin",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=kYq7mZmG6xA",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-cost-to-acquire-all-coins/",
+              "articleLink": "https://www.geeksforgeeks.org/minimum-cost-acquiring-coins-k-extra-coins-allowed/"
+            },
+            {
+              "id": 7,
+              "name": "Find Maximum Equal Sum of Every Three Stacks",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=k9yG2oY9rL0",
+              "leetcodeLink": "https://leetcode.com/problems/maximum-sum-of-three-stacks/",
+              "articleLink": "https://www.geeksforgeeks.org/find-maximum-equal-sum-every-three-stacks/"
+            },
+            {
+              "id": 8,
+              "name": "Job Sequencing Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Zz6Lwa2FxtE",
+              "leetcodeLink": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
+              "articleLink": "https://www.geeksforgeeks.org/job-sequencing-problem/"
+            },
+            {
+              "id": 9,
+              "name": "Greedy Algorithm Egyptian Fraction",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=nhL-EY-M4Eg",
+              "leetcodeLink": "https://leetcode.com/problems/egyptian-fraction/",
+              "articleLink": "https://www.geeksforgeeks.org/egyptian-fraction/"
+            },
+            {
+              "id": 10,
+              "name": "Fractional Knapsack Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=k0pLZ-nFGxg",
+              "leetcodeLink": "https://leetcode.com/problems/fractional-knapsack/",
+              "articleLink": "https://www.geeksforgeeks.org/fractional-knapsack-problem/"
+            },
+            {
+              "id": 11,
+              "name": "Maximum Length Chain of Pairs",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=_9cm4D9dNK8",
+              "leetcodeLink": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+              "articleLink": "https://www.geeksforgeeks.org/maximum-length-chain-of-pairs/"
+            },
+            {
+              "id": 12,
+              "name": "Find Smallest Number with Given Number of Digits and Digit Sum",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=ql9nHkRkJbE",
+              "leetcodeLink": "https://leetcode.com/problems/smallest-number-with-given-digit-sum/",
+              "articleLink": "https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/"
+            },
+            {
+              "id": 13,
+              "name": "Maximize Sum of Consecutive Differences Circular Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=UehDWp2J4yo",
+              "leetcodeLink": "https://leetcode.com/problems/maximum-sum-of-consecutive-differences-in-circular-array/",
+              "articleLink": "https://www.geeksforgeeks.org/maximize-sum-of-consecutive-differences-circular-array/"
+            },
+            {
+              "id": 14,
+              "name": "Paper-Cut Minimum Number of Squares",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=LUJAtmfjbA4",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-number-of-squares-to-cut/",
+              "articleLink": "https://www.geeksforgeeks.org/paper-cut-minimum-number-of-squares/"
+            },
+            {
+              "id": 15,
+              "name": "Lexicographically Smallest Array with K Consecutive Swaps",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8vJr4mLgoU0",
+              "leetcodeLink": "https://leetcode.com/problems/lexicographically-smallest-array-after-k-swaps/",
+              "articleLink": "https://www.geeksforgeeks.org/lexicographically-smallest-array-k-consecutive-swaps/"
+            },
+            {
+              "id": 16,
+              "name": "Problems-CHOCOLA",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=nK1sD3ktH6s",
+              "leetcodeLink": "https://leetcode.com/problems/chocola/",
+              "articleLink": "https://www.geeksforgeeks.org/chocola-problem/"
+            },
+            {
+              "id": 17,
+              "name": "Find Minimum Time to Finish All Jobs with Given Constraints",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=QWjc90kJPHM",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-time-to-finish-all-jobs/",
+              "articleLink": "https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/"
+            },
+            {
+              "id": 18,
+              "name": "Job Sequencing Using Disjoint Set Union",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=LC8tHp0n0As",
+              "leetcodeLink": "https://leetcode.com/problems/job-sequencing-using-disjoint-set/",
+              "articleLink": "https://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/"
+            },
+            {
+              "id": 19,
+              "name": "Rearrange Characters in String Such That No Two Adjacent Are Same",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=9Elz5t8oD30",
+              "leetcodeLink": "https://leetcode.com/problems/rearrange-characters-to-make-all-characters-unique/",
+              "articleLink": "https://www.geeksforgeeks.org/rearrange-characters-string-such-that-no-two-adjacent-are-same/"
+            },
+            {
+              "id": 20,
+              "name": "Minimum Edges to Reverse to Make Path from Source to Destination",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=fWQDDNRc9i8",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-revers",
+              "articleLink": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "name": "Binary Tree",
+      "chapters": [
+        {
+          "chapterName": "binary tree ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Maximum Depth of Binary Tree",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=-4jY8f7O-FU",
+              "leetcodeLink": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/maximum-depth-of-binary-tree/"
+            },
+            {
+              "id": 2,
+              "name": "Reverse Level Order Traversal",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=AR97WzrseG4",
+              "leetcodeLink": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/reverse-level-order-traversal/"
+            },
+            {
+              "id": 3,
+              "name": "Subtree of Another Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=1TtXTxL6gtI",
+              "leetcodeLink": "https://leetcode.com/problems/subtree-of-another-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-tree/"
+            },
+            {
+              "id": 4,
+              "name": "Invert Binary Tree",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=r8jZcGf9SFI",
+              "leetcodeLink": "https://leetcode.com/problems/invert-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/invert-binary-tree/"
+            },
+            {
+              "id": 5,
+              "name": "Binary Tree Level Order Traversal",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=4Rnk9Eo1XgE",
+              "leetcodeLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+              "articleLink": "https://www.geeksforgeeks.org/level-order-tree-traversal/"
+            },
+            {
+              "id": 6,
+              "name": "Left View of Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=r4cbgjxkb_8",
+              "leetcodeLink": "https://leetcode.com/problems/left-view-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/left-view-binary-tree/"
+            },
+            {
+              "id": 7,
+              "name": "Right View of Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=kGkR7gGStHs",
+              "leetcodeLink": "https://leetcode.com/problems/right-view-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/right-view-binary-tree/"
+            },
+            {
+              "id": 8,
+              "name": "ZigZag Tree Traversal",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Hihd6xvG-J0",
+              "leetcodeLink": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+              "articleLink": "https://www.geeksforgeeks.org/zigzag-level-order-traversal/"
+            },
+            {
+              "id": 9,
+              "name": "Create a Mirror Tree from the Given Binary Tree",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=v2KMLNekUoQ",
+              "leetcodeLink": "https://leetcode.com/problems/mirror-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/mirror-tree/"
+            },
+            {
+              "id": 10,
+              "name": "Leaf at Same Level",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=2LPzxu5jfEY",
+              "leetcodeLink": "https://leetcode.com/problems/leaf-similar-trees/",
+              "articleLink": "https://www.geeksforgeeks.org/leaf-at-same-level/"
+            },
+            {
+              "id": 11,
+              "name": "Check for Balanced Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=iyTzOMFb3L4",
+              "leetcodeLink": "https://leetcode.com/problems/balanced-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/check-for-balanced-tree/"
+            },
+            {
+              "id": 12,
+              "name": "Transform to Sum Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=vnauuxqMzAo",
+              "leetcodeLink": "https://leetcode.com/problems/convert-binary-tree-to-sum-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/transform-to-sum-tree/"
+            },
+            {
+              "id": 13,
+              "name": "Check if Tree is Isomorphic",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=KvAORuDJQ2s",
+              "leetcodeLink": "https://leetcode.com/problems/isomorphic-trees/",
+              "articleLink": "https://www.geeksforgeeks.org/check-if-two-trees-are-isomorphic/"
+            },
+            {
+              "id": 14,
+              "name": "Same Tree",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=tn3uMZBbOj8",
+              "leetcodeLink": "https://leetcode.com/problems/same-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/check-same-tree/"
+            },
+            {
+              "id": 15,
+              "name": "Construct Binary Tree from Preorder and Inorder Traversal",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=0VtOtZffM5c",
+              "leetcodeLink": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+              "articleLink": "https://www.geeksforgeeks.org/construct-binary-tree-from-preorder-and-inorder-traversal/"
+            },
+            {
+              "id": 16,
+              "name": "Height of Binary Tree",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=KBDk-i_tD9g",
+              "leetcodeLink": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/height-of-binary-tree/"
+            },
+            {
+              "id": 17,
+              "name": "Diameter of a Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=ok9NfXBZVV4",
+              "leetcodeLink": "https://leetcode.com/problems/diameter-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/diameter-of-a-binary-tree/"
+            },
+            {
+              "id": 18,
+              "name": "Top View of Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=mo8fjG86NqQ",
+              "leetcodeLink": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
+              "articleLink": "https://www.geeksforgeeks.org/top-view-of-binary-tree/"
+            },
+            {
+              "id": 19,
+              "name": "Bottom View of Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=F9TRuqFqF0s",
+              "leetcodeLink": "https://leetcode.com/problems/bottom-view-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/bottom-view-of-binary-tree/"
+            },
+            {
+              "id": 20,
+              "name": "Diagonal Traversal of Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=x5E0Kx63RG4",
+              "leetcodeLink": "https://leetcode.com/problems/diagonal-traversal-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+            },
+            {
+              "id": 21,
+              "name": "Boundary Traversal of Binary Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=7J6MW0T6T0E",
+              "leetcodeLink": "https://leetcode.com/problems/boundary-of-binary-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/"
+            },
+            {
+              "id": 22,
+              "name": "Construct Binary Tree from String with Brackets",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=4"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "name": "Binary Search Trees",
+      "chapters": [
+        {
+          "chapterName": "binary search trees",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Lowest Common Ancestor of a Binary Search Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8U48eLC1Nyk",
+              "leetcodeLink": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/"
+            },
+            {
+              "id": 2,
+              "name": "Binary Search Tree | Set 1 (Search and Insertion)",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=OSaMC90B_FI",
+              "leetcodeLink": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+            },
+            {
+              "id": 3,
+              "name": "Minimum Element in BST",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=OtqO4Q8PTd8",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-minimum-element-in-bst/"
+            },
+            {
+              "id": 4,
+              "name": "Predecessor and Successor",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=_UQh_A6ZTVI",
+              "leetcodeLink": "https://leetcode.com/problems/inorder-successor-in-bst/",
+              "articleLink": "https://www.geeksforgeeks.org/predecessor-successor-in-bst/"
+            },
+            {
+              "id": 5,
+              "name": "Check Whether BST Contains Dead End",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=tw3tGo8VZXE",
+              "leetcodeLink": "https://leetcode.com/problems/check-if-binary-tree-is-a-dead-end/",
+              "articleLink": "https://www.geeksforgeeks.org/check-whether-bst-contains-dead-end/"
+            },
+            {
+              "id": 6,
+              "name": "Binary Tree to BST",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=_8l6DqYhXQk",
+              "leetcodeLink": "https://leetcode.com/problems/binary-tree-to-bst/",
+              "articleLink": "https://www.geeksforgeeks.org/convert-binary-tree-to-bst/"
+            },
+            {
+              "id": 7,
+              "name": "Kth Largest Element in BST",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=yuea7v2j96E",
+              "leetcodeLink": "https://leetcode.com/problems/kth-largest-element-in-a-binary-search-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/kth-largest-element-in-a-bst/"
+            },
+            {
+              "id": 8,
+              "name": "Validate Binary Search Tree",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=6Bf5e0tWo6I",
+              "leetcodeLink": "https://leetcode.com/problems/validate-binary-search-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/validate-binary-search-tree/"
+            },
+            {
+              "id": 9,
+              "name": "Kth Smallest Element in a BST",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=f8P4PaqGx8o",
+              "leetcodeLink": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+              "articleLink": "https://www.geeksforgeeks.org/kth-smallest-element-in-bst/"
+            },
+            {
+              "id": 10,
+              "name": "Delete Node in a BST",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=WbG6EXG0K24",
+              "leetcodeLink": "https://leetcode.com/problems/delete-node-in-a-bst/",
+              "articleLink": "https://www.geeksforgeeks.org/delete-node-in-a-bst/"
+            },
+            {
+              "id": 11,
+              "name": "Flatten BST to Sorted List",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=w6V4alHw0pk",
+              "leetcodeLink": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+              "articleLink": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list/"
+            },
+            {
+              "id": 12,
+              "name": "Preorder to Postorder",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=ytVZp2U7l4M",
+              "leetcodeLink": "https://leetcode.com/problems/recover-binary-search-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/convert-preorder-to-postorder/"
+            },
+            {
+              "id": 13,
+              "name": "Count BST Nodes that Lie in a Given Range",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=m5nrruLwz1Y",
+              "leetcodeLink": "https://leetcode.com/problems/range-sum-of-bst/",
+              "articleLink": "https://www.geeksforgeeks.org/count-bst-nodes-that-lie-in-a-given-range/"
+            },
+            {
+              "id": 14,
+              "name": "Populate Inorder Successor for All Nodes",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=pkP11f3zhQk",
+              "leetcodeLink": "https://leetcode.com/problems/populate-next-right-pointers-in-each-node/",
+              "articleLink": "https://www.geeksforgeeks.org/populate-inorder-successor-for-all-nodes/"
+            },
+            {
+              "id": 15,
+              "name": "Convert Normal BST to Balanced BST",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=cihR9D24dq0",
+              "leetcodeLink": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+              "articleLink": "https://www.geeksforgeeks.org/convert-normal-bst-to-balanced-bst/"
+            },
+            {
+              "id": 16,
+              "name": "Merge Two BSTs",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=IOlX4n6BNyQ",
+              "leetcodeLink": "https://leetcode.com/problems/merge-two-binary-search-trees/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-two-bsts/"
+            },
+            {
+              "id": 17,
+              "name": "Given n Appointments, Find All Conflicting Appointments",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=ZtUVxIHc1So",
+              "leetcodeLink": "https://leetcode.com/problems/meeting-rooms-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/given-n-appointments-find-all-conflicting-appointments/"
+            },
+            {
+              "id": 18,
+              "name": "Replace Every Element",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=4v8d2e5U_p4",
+              "leetcodeLink": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right/",
+              "articleLink": "https://www.geeksforgeeks.org/replace-every-element-with-greater-element-on-right-side/"
+            },
+            {
+              "id": 19,
+              "name": "Construct BST from Given Preorder Traversal",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=d8c5yIQzt5o",
+              "leetcodeLink": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+              "articleLink": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversal/"
+            },
+            {
+              "id": 20,
+              "name": "Find Median of BST in O(n) Time and O(1) Space",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=ISi97W7_nkA",
+              "leetcodeLink": "https://leetcode.com/problems/find-median-from-data-stream/",
+              "articleLink": "https://www.geeksforgeeks.org/find-median-of-bst-in-o1-space/"
+            },
+            {
+              "id": 21,
+              "name": "Largest BST in a Binary Tree",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=zIc9nSM7"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "name": "Hashing ",
+      "chapters": [
+        {
+          "chapterName": "hashing algorithms",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Choose k Array Elements Such That Difference of Maximum and Minimum is Minimized",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Fz0wPmfziOQ",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-range-sum/",
+              "articleLink": "https://www.geeksforgeeks.org/minimize-difference-between-max-and-min-elements-in-k-size-subarray/"
+            },
+            {
+              "id": 2,
+              "name": "Heap Sort",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=4bZbdzjvO0M",
+              "leetcodeLink": "https://leetcode.com/problems/sort-an-array/",
+              "articleLink": "https://www.geeksforgeeks.org/heap-sort/"
+            },
+            {
+              "id": 3,
+              "name": "Top K Frequent Elements",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Qk6NqG3e7aA",
+              "leetcodeLink": "https://leetcode.com/problems/top-k-frequent-elements/",
+              "articleLink": "https://www.geeksforgeeks.org/find-top-k-frequent-elements/"
+            },
+            {
+              "id": 4,
+              "name": "K Largest Elements in an Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=KBvO8iH_G0E",
+              "leetcodeLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+              "articleLink": "https://www.geeksforgeeks.org/find-k-largest-elements-in-an-array/"
+            },
+            {
+              "id": 5,
+              "name": "Next Greater Element",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=U-eNZqaInqA",
+              "leetcodeLink": "https://leetcode.com/problems/next-greater-element-i/",
+              "articleLink": "https://www.geeksforgeeks.org/next-greater-element/"
+            },
+            {
+              "id": 6,
+              "name": "K-th Smallest/Largest Element in Unsorted Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=3FDQrrmU1WM",
+              "leetcodeLink": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+              "articleLink": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+            },
+            {
+              "id": 7,
+              "name": "Find the Maximum Repeating Number in O(n) Time and O(1) Extra Space",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=0_yw3kRe_40",
+              "leetcodeLink": "https://leetcode.com/problems/find-the-duplicate-number/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-maximum-repeating-number/"
+            },
+            {
+              "id": 8,
+              "name": "K-th Smallest Element After Removing Some Integers from Natural Numbers",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=yTbtQZLrPUo",
+              "leetcodeLink": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/",
+              "articleLink": "https://www.geeksforgeeks.org/k-th-smallest-element-after-removing-some-integers-from-natural-numbers/"
+            },
+            {
+              "id": 9,
+              "name": "Find K Closest Elements to a Given Value",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=0-GKxCqO4WU",
+              "leetcodeLink": "https://leetcode.com/problems/find-k-closest-elements/",
+              "articleLink": "https://www.geeksforgeeks.org/find-k-closest-elements-to-a-given-value/"
+            },
+            {
+              "id": 10,
+              "name": "K-th Largest Element in a Stream",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=K6_V56O1tLU",
+              "leetcodeLink": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+              "articleLink": "https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/"
+            },
+            {
+              "id": 11,
+              "name": "Connect Ropes",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=JvOeErUSzJk",
+              "leetcodeLink": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+              "articleLink": "https://www.geeksforgeeks.org/connect-ropes-minimum-cost/"
+            },
+            {
+              "id": 12,
+              "name": "Cuckoo Hashing",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=s2t2niYXj8Q",
+              "leetcodeLink": "https://leetcode.com/problems/design-cuckoo-hashing/",
+              "articleLink": "https://www.geeksforgeeks.org/cuckoo-hashing/"
+            },
+            {
+              "id": 13,
+              "name": "Itinerary from a List of Tickets",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=OnCqWwbbKqE",
+              "leetcodeLink": "https://leetcode.com/problems/reconstruct-itinerary/",
+              "articleLink": "https://www.geeksforgeeks.org/itinerary-from-a-list-of-tickets/"
+            },
+            {
+              "id": 14,
+              "name": "Largest Subarray with 0 Sum",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=O1slQJ7XVo0",
+              "leetcodeLink": "https://leetcode.com/problems/largest-subarray-with-sum-zero/",
+              "articleLink": "https://www.geeksforgeeks.org/largest-subarray-with-0-sum/"
+            },
+            {
+              "id": 15,
+              "name": "Count Distinct Elements in Every Window of Size k",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=e5o7E52cBDw",
+              "leetcodeLink": "https://leetcode.com/problems/distinct-numbers-in-every-window/",
+              "articleLink": "https://www.geeksforgeeks.org/count-distinct-elements-every-window-size-k/"
+            },
+            {
+              "id": 16,
+              "name": "Group Shifted Strings",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8sFzEZzj1v4",
+              "leetcodeLink": "https://leetcode.com/problems/group-shifted-strings/",
+              "articleLink": "https://www.geeksforgeeks.org/group-shifted-strings/"
+            },
+            {
+              "id": 17,
+              "name": "Merge K Sorted Lists",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=6ptCTnUmT7s",
+              "leetcodeLink": "https://leetcode.com/problems/merge-k-sorted-lists/",
+              "articleLink": "https://www.geeksforgeeks.org/merge-k-sorted-lists/"
+            },
+            {
+              "id": 18,
+              "name": "Find Median from Data Stream",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=ql58unqQY0E",
+              "leetcodeLink": "https://leetcode.com/problems/find-median-from-data-stream/",
+              "articleLink": "https://www.geeksforgeeks.org/find-median-from-data-stream/"
+            },
+            {
+              "id": 19,
+              "name": "Sliding Window Maximum",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=r9Wd6paG3a4",
+              "leetcodeLink": "https://leetcode.com/problems/sliding-window-maximum/",
+              "articleLink": "https://www.geeksforgeeks.org/sliding-window-maximum/"
+            },
+            {
+              "id": 20,
+              "name": "Find the Smallest Positive Number",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=pVv6l4FAG8I",
+              "leetcodeLink": "https://leetcode.com/problems/first-missing-positive/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-smallest-positive-number/"
+            },
+            {
+              "id": 21,
+              "name": "Find Surpasser Count of Each Element in Array",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=3ESM5v0eTk8",
+              "leetcodeLink": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+              "articleLink": "https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "name": "Graphs",
+      "chapters": [
+        {
+          "chapterName": "graph ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "BFS",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=2wZIlE4rMz4",
+              "leetcodeLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+              "articleLink": "https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/"
+            },
+            {
+              "id": 2,
+              "name": "DFS",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=UQp8ZGrmUdg",
+              "leetcodeLink": "https://leetcode.com/problems/number-of-islands/",
+              "articleLink": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/"
+            },
+            {
+              "id": 3,
+              "name": "Flood Fill Algorithm",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=ni9_t4s9rE0",
+              "leetcodeLink": "https://leetcode.com/problems/flood-fill/",
+              "articleLink": "https://www.geeksforgeeks.org/flood-fill-algorithm-implementations/"
+            },
+            {
+              "id": 4,
+              "name": "Number of Triangles",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=7BFxDIZvK1I",
+              "leetcodeLink": "https://leetcode.com/problems/find-the-duplicate-number/",
+              "articleLink": "https://www.geeksforgeeks.org/number-of-triangles-in-a-graph/"
+            },
+            {
+              "id": 5,
+              "name": "Detect Cycle in a Graph",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=G91IPgJ4K54",
+              "leetcodeLink": "https://leetcode.com/problems/course-schedule/",
+              "articleLink": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/"
+            },
+            {
+              "id": 6,
+              "name": "Detect Cycle in an Undirected Graph",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=2T0JYYZ7mGg",
+              "leetcodeLink": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+              "articleLink": "https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph/"
+            },
+            {
+              "id": 7,
+              "name": "Rat in a Maze Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=UG-tOaAsXts",
+              "leetcodeLink": "https://leetcode.com/problems/unique-paths-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/rat-in-a-maze/"
+            },
+            {
+              "id": 8,
+              "name": "Steps by Knight",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=xOwSzI7XSH0",
+              "leetcodeLink": "https://leetcode.com/problems/knight-dialer/",
+              "articleLink": "https://www.geeksforgeeks.org/knights-tour-problem/"
+            },
+            {
+              "id": 9,
+              "name": "Clone Graph",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=U-jg1qU-tm4",
+              "leetcodeLink": "https://leetcode.com/problems/clone-graph/",
+              "articleLink": "https://www.geeksforgeeks.org/clone-graph/"
+            },
+            {
+              "id": 10,
+              "name": "Number of Operations to Make Network Connected",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=mK4I9H0MjCE",
+              "leetcodeLink": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+              "articleLink": "https://www.geeksforgeeks.org/number-of-operations-to-make-network-connected/"
+            },
+            {
+              "id": 11,
+              "name": "Dijkstra’s Shortest Path Algorithm",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=GazgA3fTk8Y",
+              "leetcodeLink": "https://leetcode.com/problems/network-delay-time/",
+              "articleLink": "https://www.geeksforgeeks.org/dijkstra-algorithm-for-adjacency-list/"
+            },
+            {
+              "id": 12,
+              "name": "Topological Sort",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8d_X5zElw2Q",
+              "leetcodeLink": "https://leetcode.com/problems/course-schedule-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/topological-sorting/"
+            },
+            {
+              "id": 13,
+              "name": "Oliver and the Game",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=nRkPt0sbZP4",
+              "leetcodeLink": "https://leetcode.com/problems/number-of-ways-to-choose-buildings/",
+              "articleLink": "https://www.geeksforgeeks.org/oliver-and-the-game/"
+            },
+            {
+              "id": 14,
+              "name": "Minimum Time Taken by Each Job to be Completed Given by a Directed Acyclic Graph",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=5rDgW4HhP3Y",
+              "leetcodeLink": "https://leetcode.com/problems/task-scheduler/",
+              "articleLink": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/"
+            },
+            {
+              "id": 15,
+              "name": "Find Whether it is Possible to Finish All Tasks or Not from Given Dependencies",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=6T6w8Te8eXQ",
+              "leetcodeLink": "https://leetcode.com/problems/course-schedule/",
+              "articleLink": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/"
+            },
+            {
+              "id": 16,
+              "name": "Find the Number of Islands",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=K5xHkAv8u4A",
+              "leetcodeLink": "https://leetcode.com/problems/number-of-islands/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-number-of-islands/"
+            },
+            {
+              "id": 17,
+              "name": "Prim's Algorithm",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=QwtyBzx0zM8",
+              "leetcodeLink": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+              "articleLink": "https://www.geeksforgeeks.org/prims-mst-algorithm-using-priority_queue/"
+            },
+            {
+              "id": 18,
+              "name": "Negative Weighted Cycle",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=yuH1-Z4KOus",
+              "leetcodeLink": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
+              "articleLink": "https://www.geeksforgeeks.org/negative-weight-cycle/"
+            },
+            {
+              "id": 19,
+              "name": "Floyd Warshall",
+              "difficulty": "Hard",
+              "youtubeLink": "https://www.youtube.com/watch?v=b4vSTgDA6Rk",
+              "leetcodeLink": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/",
+              "articleLink": "https://www.geeksforgeeks.org/floyd-warshall-algorithm/"
+            },
+            {
+              "id": 20,
+              "name": "Graph Coloring",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=U0bY9tGzUrI",
+              "leetcodeLink": "https://leetcode.com/problems/graph-coloring/",
+              "articleLink": "https://www.geeksforgeeks.org/graph-coloring/"
+            },
+            {
+              "id": 21,
+              "name": "Snakes and Ladders",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=ps3GpG7kxW4",
+              "leetcodeLink": "https://leetcode.com/problems/snakes-and-ladders/",
+              "articleLink": "https://www.geeksforgeeks.org/snakes-and-ladders/"
+            },
+            {
+              "id": 22,
+              "name": "Kosaraju's Theorem",
+              "difficulty": "Hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Bit Manipulation",
+      "chapters": [
+        {
+          "chapterName": "bit manipulation ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Count Set Bits in an Integer",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=5g7dDgEA3h8",
+              "leetcodeLink": "https://leetcode.com/problems/number-of-1-bits/",
+              "articleLink": "https://www.geeksforgeeks.org/count-set-bits-in-an-integer/"
+            },
+            {
+              "id": 2,
+              "name": "Find the Two Non-Repeating Elements in an Array of Repeating Elements",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=4N2fU4_UXOk",
+              "leetcodeLink": "https://leetcode.com/problems/single-number-iii/",
+              "articleLink": "https://www.geeksforgeeks.org/find-the-two-non-repeating-elements-in-an-array-of-repeating-elements/"
+            },
+            {
+              "id": 3,
+              "name": "Program to Find Whether a Number is Power of Two",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=nH1IlGTwP4c",
+              "leetcodeLink": "https://leetcode.com/problems/power-of-two/",
+              "articleLink": "https://www.geeksforgeeks.org/check-if-a-number-is-power-of-two/"
+            },
+            {
+              "id": 4,
+              "name": "Find Position of the Only Set Bit",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=phh64aD7mEo",
+              "leetcodeLink": "https://leetcode.com/problems/find-the-difference/",
+              "articleLink": "https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/"
+            },
+            {
+              "id": 5,
+              "name": "Count Number of Bits to be Flipped to Convert A to B",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=5qSKoQ_xzK0",
+              "leetcodeLink": "https://leetcode.com/problems/flipping-bits/",
+              "articleLink": "https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/"
+            },
+            {
+              "id": 6,
+              "name": "Count Total Set Bits in All Numbers from 1 to n",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=G0HhSISjpfY",
+              "leetcodeLink": "https://leetcode.com/problems/number-of-1-bits/",
+              "articleLink": "https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/"
+            },
+            {
+              "id": 7,
+              "name": "Copy Set Bits in a Range",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=6PS-qM6Nznk",
+              "leetcodeLink": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+              "articleLink": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+            },
+            {
+              "id": 8,
+              "name": "Calculate Square of a Number Without Using *, / and pow()",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=R9EdUp_7JFA",
+              "leetcodeLink": "https://leetcode.com/problems/implement-strstr/",
+              "articleLink": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-operator/"
+            },
+            {
+              "id": 9,
+              "name": "Divide Two Integers Without Using Multiplication, Division and Mod Operator",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=vK94EAoLtqQ",
+              "leetcodeLink": "https://leetcode.com/problems/divide-two-integers/",
+              "articleLink": "https://www.geeksforgeeks.org/divide-two-integers-without-using-division-multiplication-and-mod-operator/"
+            },
+            {
+              "id": 10,
+              "name": "Power Set",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=c54STNTrc8g",
+              "leetcodeLink": "https://leetcode.com/problems/subsets/",
+              "articleLink": "https://www.geeksforgeeks.org/power-set/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Dynamic Programming",
+      "chapters": [
+        {
+          "chapterName": "dynamic algorithm ques",
+          "problems": [
+            {
+              "id": 1,
+              "name": "Knapsack with Duplicate Items",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=qN4nF6xLX7U",
+              "leetcodeLink": "https://leetcode.com/problems/knapsack-with-duplicates/",
+              "articleLink": "https://www.geeksforgeeks.org/knapsack-with-duplicate-items/"
+            },
+            {
+              "id": 2,
+              "name": "BBT Counter",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=aE8R0v4S9w0",
+              "leetcodeLink": "https://leetcode.com/problems/count-of-balanced-binary-trees/",
+              "articleLink": "https://www.geeksforgeeks.org/count-balanced-binary-trees/"
+            },
+            {
+              "id": 3,
+              "name": "Reach a Given Score",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Txg5uG1eFJk",
+              "leetcodeLink": "https://leetcode.com/problems/reach-a-given-score/",
+              "articleLink": "https://www.geeksforgeeks.org/reach-a-given-score/"
+            },
+            {
+              "id": 4,
+              "name": "Maximum Difference of Zeros and Ones in Binary String",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=IRIRirA6cc4",
+              "leetcodeLink": "https://leetcode.com/problems/max-difference-of-zeros-and-ones/",
+              "articleLink": "https://www.geeksforgeeks.org/maximum-difference-of-zeros-and-ones-in-binary-string/"
+            },
+            {
+              "id": 5,
+              "name": "Climbing Stairs",
+              "difficulty": "Easy",
+              "youtubeLink": "https://www.youtube.com/watch?v=9bZB7W-5g_g",
+              "leetcodeLink": "https://leetcode.com/problems/climbing-stairs/",
+              "articleLink": "https://www.geeksforgeeks.org/climbing-stairs/"
+            },
+            {
+              "id": 6,
+              "name": "Permutation Coefficient",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=yfwf-zy2cbI",
+              "leetcodeLink": "https://leetcode.com/problems/permutation-coefficient/",
+              "articleLink": "https://www.geeksforgeeks.org/permutation-coefficient/"
+            },
+            {
+              "id": 7,
+              "name": "Longest Repeating Subsequence",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=FqJ8_wK_Xy4",
+              "leetcodeLink": "https://leetcode.com/problems/longest-repeating-subsequence/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-repeating-subsequence/"
+            },
+            {
+              "id": 8,
+              "name": "Pairs with Specific Difference",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=9L9nbWJgnNc",
+              "leetcodeLink": "https://leetcode.com/problems/pairs-with-specific-difference/",
+              "articleLink": "https://www.geeksforgeeks.org/pairs-with-specific-difference/"
+            },
+            {
+              "id": 9,
+              "name": "Longest Subsequence-1",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=WZk5z-Z7gXE",
+              "leetcodeLink": "https://leetcode.com/problems/longest-subsequence-1/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-subsequence-1/"
+            },
+            {
+              "id": 10,
+              "name": "Coin Change",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=0zH_o5vM2Fs",
+              "leetcodeLink": "https://leetcode.com/problems/coin-change/",
+              "articleLink": "https://www.geeksforgeeks.org/coin-change/"
+            },
+            {
+              "id": 11,
+              "name": "Longest Increasing Subsequence (LIS)",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=6oL2Tb-T_1Y",
+              "leetcodeLink": "https://leetcode.com/problems/longest-increasing-subsequence/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-increasing-subsequence/"
+            },
+            {
+              "id": 12,
+              "name": "Longest Common Subsequence",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=5Z7TgUgz9iM",
+              "leetcodeLink": "https://leetcode.com/problems/longest-common-subsequence/",
+              "articleLink": "https://www.geeksforgeeks.org/longest-common-subsequence/"
+            },
+            {
+              "id": 13,
+              "name": "Word Break",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=F91L9A2zU7Q",
+              "leetcodeLink": "https://leetcode.com/problems/word-break/",
+              "articleLink": "https://www.geeksforgeeks.org/word-break/"
+            },
+            {
+              "id": 14,
+              "name": "Combination Sum IV",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=hsnKJQdV7Z4",
+              "leetcodeLink": "https://leetcode.com/problems/combination-sum-iv/",
+              "articleLink": "https://www.geeksforgeeks.org/combination-sum-iv/"
+            },
+            {
+              "id": 15,
+              "name": "House Robber",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Zj7ozJkmt0A",
+              "leetcodeLink": "https://leetcode.com/problems/house-robber/",
+              "articleLink": "https://www.geeksforgeeks.org/house-robber/"
+            },
+            {
+              "id": 16,
+              "name": "House Robber II",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=lf59Yk8hH7I",
+              "leetcodeLink": "https://leetcode.com/problems/house-robber-ii/",
+              "articleLink": "https://www.geeksforgeeks.org/house-robber-ii/"
+            },
+            {
+              "id": 17,
+              "name": "Decode Ways",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=Zrt85gi6R8k",
+              "leetcodeLink": "https://leetcode.com/problems/decode-ways/",
+              "articleLink": "https://www.geeksforgeeks.org/decode-ways/"
+            },
+            {
+              "id": 18,
+              "name": "Unique Paths",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=d2bPLMA_A5g",
+              "leetcodeLink": "https://leetcode.com/problems/unique-paths/",
+              "articleLink": "https://www.geeksforgeeks.org/unique-paths/"
+            },
+            {
+              "id": 19,
+              "name": "Jump Game",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=p-7RD6TYn-g",
+              "leetcodeLink": "https://leetcode.com/problems/jump-game/",
+              "articleLink": "https://www.geeksforgeeks.org/jump-game/"
+            },
+            {
+              "id": 20,
+              "name": "Knapsack Problem",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=8LusJS5-AGo",
+              "leetcodeLink": "https://leetcode.com/problems/knapsack/",
+              "articleLink": "https://www.geeksforgeeks.org/0-1-knapsack-problem/"
+            },
+            {
+              "id": 21,
+              "name": "nCr (Binomial Coefficient)",
+              "difficulty": "Medium",
+              "youtubeLink": "https://www.youtube.com/watch?v=O4yJPgRQgyA",
+              "leetcodeLink": "https://leetcode.com/problems/binomial-coefficient/",
+              "articleLink": "https://www.geeksforgeeks.org/binomial-coefficient/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
