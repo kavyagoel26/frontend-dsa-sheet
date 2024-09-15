@@ -1,6 +1,6 @@
 import  { useState } from "react";
-import LoginPage from "./components/LoginPage";
-import DSASheet from "./components/DSASheet";
+import LoginPage from "./Components/LoginPage";
+import DSASheet from "./Components/DSASheet";
 import {BrowserRouter} from "react-router-dom"
 
 //import './App.css';
