@@ -4,15 +4,10 @@ function LoginPage({onLogin}) {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
 
-
-
-
   const handleSubmit = (e) => {
-    e.preventDefault();
-    
+    e.preventDefault();    
     // Store the username in localStorage
-    localStorage.setItem("username", username);
-    
+    localStorage.setItem("username", username);   
     // Trigger onLogin callback to pass username to parent component
     onLogin(username);
   };
@@ -58,7 +53,6 @@ function LoginPage({onLogin}) {
           >
             Login
           </button>
-         
         </form>
       </div>
     </div>

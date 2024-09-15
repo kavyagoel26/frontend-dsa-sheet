@@ -1489,7 +1489,9 @@
               "id": 22,
               "name": "Construct Binary Tree from String with Brackets",
               "difficulty": "Medium",
-              "youtubeLink": "https://www.youtube.com/watch?v=4"
+              "youtubeLink": "https://www.youtube.com/watch?v=4",
+              "leetcodeLink": null,
+              "articleLink":"https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/"
             }
           ]
         }
@@ -1667,7 +1669,10 @@
               "id": 21,
               "name": "Largest BST in a Binary Tree",
               "difficulty": "Hard",
-              "youtubeLink": "https://www.youtube.com/watch?v=zIc9nSM7"
+              "youtubeLink": "https://www.youtube.com/watch?v=zIc9nSM7",
+              "leetcodeLink": null,
+              "articleLink":"https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/"
+
             }
           ]
         }
@@ -2028,12 +2033,8 @@
               "youtubeLink": "https://www.youtube.com/watch?v=ps3GpG7kxW4",
               "leetcodeLink": "https://leetcode.com/problems/snakes-and-ladders/",
               "articleLink": "https://www.geeksforgeeks.org/snakes-and-ladders/"
-            },
-            {
-              "id": 22,
-              "name": "Kosaraju's Theorem",
-              "difficulty": "Hard"
             }
+         
           ]
         }
       ]
