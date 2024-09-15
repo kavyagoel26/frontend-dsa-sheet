@@ -1,6 +1,6 @@
 import  { useState } from "react";
 import LoginPage from "./Components/LoginPage";
-import DSASheet from "./Components/DSASheet";
+import DsaSheet from "./Components/DsaSheet";
 import {BrowserRouter} from "react-router-dom"
 
 //import './App.css';
@@ -23,7 +23,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
     
-      {loggedInUser ? <DSASheet user={loggedInUser} onLogout={handleLogout}/> : <LoginPage onLogin={handleLogin} />}
+      {loggedInUser ? <DsaSheet user={loggedInUser} onLogout={handleLogout}/> : <LoginPage onLogin={handleLogin} />}
 
     </div>
     </BrowserRouter>

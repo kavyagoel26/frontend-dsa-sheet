@@ -33,7 +33,7 @@ const AccordionHeader = ({ topic, isOpen, onToggle, progress }) => (
   </div>
 );
 
-function DSASheet({ user, onLogout }) {
+function DsaSheet({ user, onLogout }) {
 
   const [topics, setTopics] = useState(() => {
     const storedTopics = localStorage.getItem(`${user}_dsaSheetTopics`);
@@ -156,4 +156,4 @@ function DSASheet({ user, onLogout }) {
   );
 }
 
-export default DSASheet;
+export default DsaSheet;
