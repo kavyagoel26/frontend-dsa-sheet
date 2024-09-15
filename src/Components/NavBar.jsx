@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState, useEffect } from "react";
 import { User } from "lucide-react"; // Importing User icon from Lucide
 import {useNavigate} from "react-router-dom"

@@ -1,5 +1,6 @@
+/* eslint-disable react/prop-types */
 //import React from "react";
-import { Youtube, ExternalLink } from 'lucide-react'; // Importing icons from Lucide React
+import { Youtube, ExternalLink } from 'lucide-react'; 
 
 // Badge Component for showing the problem difficulty
 const DifficultyBadge = ({ difficulty }) => {
@@ -121,6 +122,8 @@ const DSAChapter = ({ chapter, toggleCompletion, searchTerm }) => {
           </tbody>
         </table>
       ) : (
+        
+        // eslint-disable-next-line react/no-unescaped-entities
         <p>No problems found for "{searchTerm}"</p>
       )}
     </div>

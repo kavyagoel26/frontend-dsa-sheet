@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState, useEffect, useMemo } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
 import DSAChapter from "./DSAChapter";
@@ -5,6 +6,7 @@ import topicData from "../payload/topicData.json";
 import NavBar from "./NavBar";
 
 // Reusable AccordionHeader Component
+
 const AccordionHeader = ({ topic, isOpen, onToggle, progress }) => (
   <div
     onClick={onToggle}
